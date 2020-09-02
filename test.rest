@@ -1,0 +1,9 @@
+GET http://localhost:5000/admin
+Content-Type: application/json
+
+{
+    "userId": 1
+}
+
+#GET http://localhost:5000/projects
+#
